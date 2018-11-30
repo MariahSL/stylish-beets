@@ -70,7 +70,7 @@ dl dd {
   font-weight: normal;
 }
 
-ol li a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
