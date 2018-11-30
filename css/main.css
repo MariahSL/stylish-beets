@@ -52,6 +52,7 @@ ul li {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
   line-height: 1.5;
+  list-style-type: lower-latin;
 }
 
 dl dt {
