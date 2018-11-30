@@ -54,7 +54,7 @@ dl dt {
   line-height: 1.5;
 }
 
-dd + data {
+dl dd {
   font-family: 'PT Serif', serif;
   font-size: 1.125rem;
   line-height: 1.5;
