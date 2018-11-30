@@ -70,8 +70,9 @@ dl dd {
   font-weight: normal;
 }
 
-nav ol:hover {
+ol li:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
 
 [href="Wikipedia"]:hover {
