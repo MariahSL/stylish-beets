@@ -64,3 +64,11 @@ dl dd {
   font-style: italic;
   font-weight: normal;
 }
+
+nav ol:hover {
+  color: #3f1622;
+}
+
+[href="Wikipedia"]:hover {
+  color: #3f1622;
+}
