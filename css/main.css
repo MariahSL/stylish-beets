@@ -17,6 +17,11 @@ nav ol {
   color: #8f2440;
   font-size: 1.125rem;
   font-weight: bold;
+  list-style-type: none;
+  text-decoration: none;
+}
+img {
+  align-items: center;
 }
 
 figcaption {
