@@ -59,3 +59,8 @@ dl dd {
   font-size: 1.125rem;
   line-height: 1.5;
 }
+
+.serving {
+  font-style: italic;
+  font-weight: normal;
+}
