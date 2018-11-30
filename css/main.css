@@ -3,23 +3,24 @@ html {
 }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
 }
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
 }
 
 a {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #8f2440;
   font-size: 1.125rem;
   font-weight: bold;
   list-style-type: none;
   text-decoration: none;
 }
+
 img {
   width: 100%;
 }
@@ -31,12 +32,12 @@ figcaption {
 }
 
 p {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-size: 1.125rem;
 }
 
 .bolded {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: bold;
   font-size: 1.125rem;
 }
@@ -47,20 +48,20 @@ blockquote p {
 }
 
 ul li {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-size: 1.125rem;
   line-height: 1.5;
 }
 
 dl dt {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-size: 1.125rem;
   font-weight: bold;
   line-height: 1.5;
 }
 
 dl dd {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-size: 1.125rem;
   line-height: 1.5;
 }
