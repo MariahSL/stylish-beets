@@ -81,3 +81,7 @@ a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+
+ol {
+  list-style-type: none;
+}
